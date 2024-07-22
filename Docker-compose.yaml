@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  robby_service:
+    image: multiagent_crew
+    container_name: multiagent_crew
+    ports:
+      - "8009:8000"
+    #command: streamlit run app.py
+    command: tail -f /dev/null
+
+# streamlit run src/Home.py

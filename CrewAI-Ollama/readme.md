@@ -1,0 +1,1 @@
+* Get [Ollama running](https://fossengineer.com/selfhosting-llms-ollama/)
