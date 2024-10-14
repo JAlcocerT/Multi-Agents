@@ -8,6 +8,22 @@
   </a>
 </div>
 
+
+Pre-Requisites:
+
+```sh
+python -m venv video_venv #create it
+
+video_venv\Scripts\activate #activate venv (windows)
+source video_venv/bin/activate #(linux)
+```
+
+Check the videos in the specified folder and **join them**:
+
+```sh
+pip install -r requirements.txt #all at once
+```
+
 ## CrewAI
 
 * https://pypi.org/project/crewai
