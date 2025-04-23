@@ -1,6 +1,18 @@
+* https://pypi.org/project/openai-agents/
 
+
+
+> You can also do MCP with openai agents
+
+```sh
+#git clone https://github.com/openai/openai-agents-python
+git clone https://github.com/JAlcocerT/openai-agents-python
+cd examples/basic
+```
 
 ---
+
+## Env Setup
 
 
 ```sh
