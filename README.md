@@ -12,6 +12,11 @@
 
 ### Exploring Multi-Agents Tools
 
+You might also be interested on:
+
+1. [MCP Post](https://jalcocert.github.io/JAlcocerT/ai-understanding-mcp-framework/)
+2. [LangFuse Setup](https://github.com/JAlcocerT/Docker/tree/main/AI_Gen/LangFuse)
+
 
 ---
 

@@ -1,5 +1,6 @@
 * https://pypi.org/project/openai-agents/
-
+    * https://github.com/openai/openai-agents-python
+    * https://github.com/JAlcocerT/openai-agents-python
 
 
 > You can also do MCP with openai agents

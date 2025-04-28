@@ -1,7 +1,7 @@
+> LangChain can also do agentic stuff!
 
 
-
-
+---
 
 Pre-Requisites:
 
